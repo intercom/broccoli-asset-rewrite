@@ -1,6 +1,6 @@
 {
   "name": "broccoli-asset-rewrite",
-  "version": "3.0.0",
+  "version": "3.0.0-intercom.1",
   "description": "broccoli plugin to rewrite a source tree from an asset map.",
   "keywords": [
     "broccoli",
