@@ -33,7 +33,7 @@
     "broccoli": "^4.0.0",
     "broccoli-test-helper": "^2.0.0",
     "chai": "^4.2.0",
-    "codecov": "^1.0.1",
+    "codecov": "^3.8.2",
     "eslint": "^7.12.1",
     "eslint-config-prettier": "^6.15.0",
     "eslint-plugin-node": "^11.1.0",
